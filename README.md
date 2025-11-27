@@ -43,7 +43,10 @@ facefusion/
 ### 1. 克隆项目代码
 
 ```bash
+官方：
 git clone https://github.com/facefusion/facefusion.git
+本人:
+https://github.com/liucf1224-del/faceFusion-Mi.git
 cd facefusion
 ```
 
